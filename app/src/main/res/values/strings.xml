@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotex App Signals</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com</string>
+    <string name="back4app_app_id" translatable="false">Vxq0QjnZ8Bars3uXSlpK7b3P9cxEhmeR0yzrtrdD</string>
+    <string name="back4app_client_key" translatable="false">kJYVwID4o5N1Kx5peejRkmlyv3J7SHDKpdoOtSUK</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165305791907",
+    "project_id": "quotex-app-signals",
+    "storage_bucket": "quotex-app-signals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165305791907:android:9613b86ec4e2a2f6845616",
+        "android_client_info": {
+          "package_name": "aaa.bbb.novemberaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165305791907-0q6j1oh3dj6qpbtvfgnrlkhc4qd7i1te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aaa.bbb.novemberaver",
+            "certificate_hash": "2b5cfc7d28882f1f448d36ffd055cdf482118de6"
+          }
+        },
+        {
+          "client_id": "165305791907-7rnmcm1a4oqfsrpdji85k4ati94kmjek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3e2HzZj9qfo-oehY1IzM9N0aJL1EiLjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165305791907-7rnmcm1a4oqfsrpdji85k4ati94kmjek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/trading"
+        android:title="Trade"
+        android:icon="@drawable/ic_trading"/>
+    <item
+        android:id="@+id/signals"
+        android:title="Signals"
+        android:icon="@drawable/ic_signals"/>
+</menu>
